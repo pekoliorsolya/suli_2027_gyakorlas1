@@ -13,13 +13,13 @@ ps5
 gta 6
 chocholate
 
-Dog's list:
-bone
-ball
-ball 
-ball
-
 Cat's list:
 yarn
 feather toy
 mouse
+
+Dog's list:
+bone
+ball
+squirell
+
