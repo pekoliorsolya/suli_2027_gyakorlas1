@@ -7,3 +7,8 @@ Dad's list:
 chips
 beer
 scewdriver
+
+Dog's list:
+bone
+ball
+squirell
