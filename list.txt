@@ -12,3 +12,8 @@ Dog's list:
 bone
 ball
 squirell
+
+Grandma' list:
+yarn
+mint
+candy
