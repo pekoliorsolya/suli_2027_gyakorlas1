@@ -2,3 +2,8 @@ Mom's list:
 bread
 butter
 milk
+
+Dad's list:
+chips
+beer
+scewdriver
