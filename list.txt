@@ -23,3 +23,5 @@ bone
 ball
 squirell
 
+Cousin's list:
+psp
