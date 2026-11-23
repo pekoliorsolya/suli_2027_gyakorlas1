@@ -27,3 +27,8 @@ Grandma' list:
 yarn
 mint
 candy
+
+Grandpa's list:
+Sudoku
+chroisant
+batteries
