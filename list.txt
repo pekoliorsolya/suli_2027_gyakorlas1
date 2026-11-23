@@ -32,3 +32,6 @@ Grandpa's list:
 Sudoku
 chroisant
 batteries
+
+Neighbour's list:
+lighter
